@@ -1,0 +1,14 @@
+C:\Users\Hp\source\repos\Check\Check\obj\Debug\netcoreapp3.1\Check.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\Check\Check\obj\Debug\netcoreapp3.1\Check.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\Check\Check\obj\Debug\netcoreapp3.1\Check.AssemblyInfo.cs
+C:\Users\Hp\source\repos\Check\Check\obj\Debug\netcoreapp3.1\Check.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\Check\Check\obj\Debug\netcoreapp3.1\Check.sourcelink.json
+C:\Users\Hp\source\repos\Check\Check\bin\Debug\netcoreapp3.1\Check.exe
+C:\Users\Hp\source\repos\Check\Check\bin\Debug\netcoreapp3.1\Check.deps.json
+C:\Users\Hp\source\repos\Check\Check\bin\Debug\netcoreapp3.1\Check.runtimeconfig.json
+C:\Users\Hp\source\repos\Check\Check\bin\Debug\netcoreapp3.1\Check.runtimeconfig.dev.json
+C:\Users\Hp\source\repos\Check\Check\bin\Debug\netcoreapp3.1\Check.dll
+C:\Users\Hp\source\repos\Check\Check\bin\Debug\netcoreapp3.1\Check.pdb
+C:\Users\Hp\source\repos\Check\Check\obj\Debug\netcoreapp3.1\Check.dll
+C:\Users\Hp\source\repos\Check\Check\obj\Debug\netcoreapp3.1\Check.pdb
+C:\Users\Hp\source\repos\Check\Check\obj\Debug\netcoreapp3.1\Check.genruntimeconfig.cache
